@@ -1,0 +1,25 @@
+.container {
+  margin: 2rem auto;
+  max-width: 760px;
+}
+
+input,
+#clear {
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding: 0.4rem;
+  box-sizing: border-box;
+}
+
+.buttons {
+  display: flex;
+}
+
+tbody {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
